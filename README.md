@@ -1,44 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Mohamed%20Afril&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F3A,75:123C69,100:0EA5E9&text=MOHAMED%20AFRIL&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=59&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Real+Software" />
+
+<br/><br/>
+
 <a href="https://github.com/mohamed-afril">
-<img src="https://img.shields.io/github/followers/mohamed-afril?style=flat-square&logo=github&label=Followers" />
+<img src="https://komarev.com/ghpvc/?username=mohamed-afril&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
 </a>
-<a href="https://github.com/mohamed-afril?tab=repositories">
-<img src="https://img.shields.io/github/stars/mohamed-afril?style=flat-square&logo=github&label=Stars" />
+
+<a href="https://github.com/mohamed-afril?tab=followers">
+<img src="https://img.shields.io/github/followers/mohamed-afril?style=for-the-badge&color=1D4ED8&labelColor=020617&label=FOLLOWERS"/>
 </a>
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Afril
+## 👋 About Me
 
-I'm an **AI & Data Science student and full-stack developer** who enjoys turning ideas into practical software products.
+I'm **Mohamed Afril**, an **AI & Data Science student and full-stack developer** interested in building practical software products with AI and modern web technologies.
 
-I work across **AI/ML, backend systems, modern web applications and product development**.
+I enjoy working across the complete development cycle — from designing an idea to building, testing and deploying the final product.
 
 ```text
-AI + Engineering + Product = What I Build
+AI / ML
+   +
+FULL-STACK DEVELOPMENT
+   +
+PRODUCT ENGINEERING
+   =
+REAL-WORLD SOFTWARE
 ```
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Do
 
-* 🤖 AI-powered applications
-* 🌐 Full-stack web platforms
-* 🧠 Machine Learning solutions
-* ⚡ Fast and scalable backend APIs
-* 🗄️ Data-driven applications
-* 🎯 Real-world problem-solving products
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖
+
+**AI / ML**
+
+Machine Learning
+Generative AI
+NLP
+Computer Vision
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌐
+
+**Frontend**
+
+React
+Next.js
+TypeScript
+Tailwind CSS
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚡
+
+**Backend**
+
+Python
+FastAPI
+Node.js
+REST APIs
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️
+
+**Data**
+
+PostgreSQL
+MySQL
+Supabase
+Data Processing
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -46,13 +106,19 @@ AI + Engineering + Product = What I Build
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql" />
 
+<br/><br/>
+
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
+<br/><br/>
+
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase" />
+
+<br/><br/>
 
 ### AI / ML & Tools
 
@@ -62,36 +128,47 @@ AI + Engineering + Product = What I Build
 
 ---
 
-# 🔥 Featured Projects
+# ⭐ Featured Projects
+
+<div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## 🛡️ RAKSHA AI
 
-**Proactive AI-based safety and risk management platform.**
+**Proactive AI-powered safety and risk management platform.**
 
-Built to analyze safety-related information and support proactive decision making.
+Transforms safety-related information into actionable insights for proactive decision-making.
 
-**Stack**
+**Tech**
 
-`JavaScript` `Python` `FastAPI` `Machine Learning`
+`Python` `FastAPI` `Machine Learning` `SQL`
+
+**Focus**
+
+AI · Safety · Risk Analysis · Decision Support
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚀 Uplogix
+## 🎓 Uplogix
 
-**Modern college resource-sharing platform.**
+**Full-stack academic resource platform.**
 
-Connects students, staff and administrators through a centralized academic resource system.
+A centralized platform connecting students, staff and administrators.
 
-**Stack**
+**Tech**
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+**Focus**
+
+RBAC · Secure Storage · Notifications · RLS
 
 </td>
 
@@ -103,13 +180,17 @@ Connects students, staff and administrators through a centralized academic resou
 
 ## 🌱 Agri Advisor AI
 
-**AI-powered agricultural advisory platform.**
+**AI-powered agricultural advisory system.**
 
-Helps users with crop, soil, disease, pest and farming-related decisions.
+Provides intelligent assistance for crop, soil, disease, pest and farming-related decisions.
 
-**Stack**
+**Tech**
 
 `Python` `AI/ML` `Gemini` `Streamlit`
+
+**Focus**
+
+Agriculture · AI · Computer Vision
 
 </td>
 
@@ -119,29 +200,23 @@ Helps users with crop, soil, disease, pest and farming-related decisions.
 
 **Smart resource allocation platform.**
 
-Designed to help organizations manage and allocate resources more efficiently.
+A platform designed to improve resource planning and allocation.
 
-**Stack**
+**Tech**
 
 `Python` `FastAPI` `React` `PostgreSQL`
+
+**Focus**
+
+Optimization · Analytics · Management
 
 </td>
 
 </tr>
+
 </table>
 
----
-
-# 🧠 Currently Exploring
-
-```text
-Artificial Intelligence
-Machine Learning
-Generative AI
-Full-Stack Development
-System Design
-Cloud & Deployment
-```
+</div>
 
 ---
 
@@ -149,9 +224,9 @@ Cloud & Deployment
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed-afril&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamed-afril&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-afril&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-afril&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
 
 </div>
 
@@ -159,7 +234,7 @@ Cloud & Deployment
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mohamed-afril&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mohamed-afril&theme=dark&hide_border=true&background=020617&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
 </div>
 
@@ -169,29 +244,47 @@ Cloud & Deployment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-afril&bg_color=00000000&color=2563EB&line=06B6D4&point=1D4ED8&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-afril&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Focus
+# 🎯 Current Focus
+
+<div align="center">
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  🤖 Build practical AI products              │
-│                                               │
-│  🌐 Improve full-stack engineering           │
-│                                               │
-│  🧠 Deepen ML & GenAI knowledge              │
-│                                               │
-│  🚀 Ship more real-world projects             │
-│                                               │
-│  💡 Turn ideas into products                  │
-│                                               │
-└───────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🤖  Generative AI & Machine Learning              │
+│                                                     │
+│  🌐  Advanced Full-Stack Development               │
+│                                                     │
+│  ⚡  Scalable Backend Architecture                  │
+│                                                     │
+│  🗄️  PostgreSQL & Cloud Systems                    │
+│                                                     │
+│  🚀  Building Real-World AI Products               │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+---
+
+# 💡 Development Philosophy
+
+<div align="center">
+
+### Build things that are useful.
+
+**Learn → Build → Test → Improve → Ship**
+
+</div>
+
+I believe good software combines **strong engineering, thoughtful design and meaningful problem solving**.
 
 ---
 
@@ -200,23 +293,19 @@ Cloud & Deployment
 <div align="center">
 
 <a href="https://github.com/mohamed-afril">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### "Build something useful. Keep learning. Keep shipping."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:075985,100:020617" width="100%"/>
 
 </div>
