@@ -207,7 +207,7 @@ I believe good software combines **strong engineering, thoughtful design and mea
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="https://www.linkedin.com/in/mohamed-afril/">
+<a href="https://www.linkedin.com/in/afril2007">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
